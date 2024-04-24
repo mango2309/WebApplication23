@@ -4,7 +4,7 @@
     {
         public int Id { get; set; }
 
-        public string Name { get; set; }   
+        public string JD { get; set; }   
         public Prueba() { }
 
     }
